@@ -1,1 +1,4 @@
 manage branches
+stashing messages
+adding lines
+
